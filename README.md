@@ -219,20 +219,3 @@ El sistema cuenta con:
 ### Dashboard
 - `GET /api/dashboard/estadisticas` - Estadísticas generales
 
-## 🤝 Contribución
-
-Este proyecto fue desarrollado para **Fundación Genesis Empresarial**.
-
-## 📞 Contacto
-
-Para soporte técnico o consultas sobre el sistema, contactar a:
-- Email: soporte@genesisempresarial.com
-- Teléfono: +502 1234-5678
-
-## 📄 Licencia
-
-Copyright © 2024 Fundación Genesis Empresarial. Todos los derechos reservados.
-
----
-
-**Desarrollado con ❤️ para Fundación Genesis Empresarial**
