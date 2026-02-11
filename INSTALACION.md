@@ -287,27 +287,5 @@ npm install
 
 ---
 
-## 📞 SOPORTE
-
-Si encuentras problemas:
-1. Revisa los logs en la terminal del backend
-2. Revisa la consola del navegador (F12)
-3. Verifica que todos los servicios estén corriendo
-4. Consulta el archivo README.md para más información
-
----
-
-## 🎉 ¡LISTO!
-
-Tu sistema bancario está configurado y listo para usar.
-
-**Próximos pasos:**
-- Explora el dashboard
-- Crea nuevas cuentas
-- Realiza transferencias
-- Revisa el historial de transacciones
-- Explora los préstamos activos
-
----
 
 **Desarrollado con ❤️ para Fundación Genesis Empresarial**
