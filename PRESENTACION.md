@@ -342,30 +342,4 @@ npm start
 7. GraphQL API
 8. Server-side rendering
 
----
-
-## 📞 CONTACTO Y SOPORTE
-
-**Fundación Genesis Empresarial**
-- Email: soporte@genesisempresarial.com
-- Teléfono: +502 1234-5678
-- Sitio Web: www.genesisempresarial.com
-
-**Desarrollador:**
-- Proyecto académico
-- Febrero 2025
-
----
-
-## 📄 LICENCIA
-
-Copyright © 2025 Fundación Genesis Empresarial
-Todos los derechos reservados.
-
-Este proyecto fue desarrollado con fines educativos y demostrativos.
-
----
-
-**¡Gracias por usar el Sistema Bancario Genesis!**
-
-Desarrollado con ❤️ y ☕ para Fundación Genesis Empresarial
+Gracias por ver mi proyecto
